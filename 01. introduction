@@ -1,0 +1,5 @@
+print("hellg")
+x = 10 
+name = "imran"
+print(x)
+print(name,x)
